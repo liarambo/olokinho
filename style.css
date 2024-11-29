@@ -11,4 +11,11 @@ body{
     justify-content: center;
     margin-top: 80px;
     margin-botton: 80px;
+
+}
+header{
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+    bonder-botton: 3px sold pink
+    padding: 20px
 }
